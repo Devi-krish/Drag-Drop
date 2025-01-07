@@ -11,5 +11,5 @@ Dynamic event handling for multiple elements.
 Technologies Used :
 HTML,
 CSS,
-JavaScript,
+JavaScript
 
