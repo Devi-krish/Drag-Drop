@@ -8,3 +8,8 @@ Drag items from the left box to the right box.
 Drag items back from the right box to the left box.
 Dynamic event handling for multiple elements.
 
+Technologies Used :
+HTML
+CSS
+JavaScript
+
