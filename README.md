@@ -9,7 +9,7 @@ Drag items back from the right box to the left box.
 Dynamic event handling for multiple elements.
 
 Technologies Used :
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 
